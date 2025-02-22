@@ -1,2 +1,2 @@
 # rendiff-website
-rendiff.dev website 
+https://rendiff.dev website 
